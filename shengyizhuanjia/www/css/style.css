@@ -1,0 +1,19 @@
+/* Empty. Add your own CSS if you like */
+.margin-left{
+  margin-left: 10px;
+}
+.margin-right{
+  margin-right:10px;
+}
+.full-image{
+  width:100%;
+
+}
+.on-right{
+  margin-left: 40%;
+  width: 60%;
+}
+.f-image{
+  width:100%;
+  height: 600px;
+}
